@@ -1,0 +1,141 @@
+##FORCEMIDIMAP
+#basic general Midi Template with Known Parameters
+#page 1 ---------------------
+1   =Mod Wheel
+2   =  Breath
+3   = 3 Undefined
+4   = Foot Ctrl
+5   = Porta Time
+6   = Data MSB
+7   = Volume
+8   = Balance
+9   = 9 Undefined
+10  = Pan
+11  = Expression
+12  = Fx Control 1
+13  = Fx Control 2
+14  = 14 Undefined
+15  = 15 Undefined
+16  = 16 General 1
+#Page 2
+17  = 17 General 2
+18  = 18 General 3
+19  = 19 general 4
+20  = 20 Undefined
+21  = 21 Undefined
+22  = 22 Undefined
+23  = 23 Undefined
+24  = 24 Undefined
+25  = 25 Undefined
+26  = 26 Undefined
+27  = 27 Undefined
+28  = 28 Undefined
+29  = 29 Undefined
+30  = 30 Undefined
+31  = 30 Undefined
+32  = Bank Select LSB
+#Page 3
+33  = 33
+34  = 34
+35  = 35
+36  = 36
+37  = 37
+38  = 38
+39  = 39
+40  = 40
+41  = 41 
+42  = 42
+43  = 43
+44  = 44
+45  = 45
+46  = 46 
+47  = 47 
+48  = 48 
+#Page 4
+49  = 49 
+50  = 50 
+51  = 51 
+52  = 52
+53  = 53      
+54  = 54
+55  = 55
+56  = 56
+57  = 57
+58  = 58
+59  = 59
+60  = 60
+61  = 61
+62  = 62
+63  = 63
+64  = Sustain On/Off
+#Page 5
+65  = Porta on/off
+66  = Sostenuto on/off
+67  = Soft Pedal on/off
+68  = Legato on/off
+69  = Hold 2 on/off
+70  = Sound Variation
+71  = Filter Resonance
+72  = Amp Release
+73  = Amp Attack
+74  = Filter Cutoff
+75  = Amp Decay
+76  = Vib Rate
+77  = Vib Depth
+78  = Vib Delay
+79  = 79
+80  = 80
+#Page 6
+81  = 81
+82  = 82
+83  = 83
+84  = Portamento 
+85  85
+86  86
+87  87
+88  High Res Velocity
+89  = 89
+90  = 90
+91  = Fx1 Level/Send
+92  = Fx 2 Level/Depth
+93  = Fx 3 Level/Depth
+94  = Fx4 Level/Depth
+95  = Fx5 Level/Depth
+96  = Data Increment
+#Page 7
+97  = Data Decrement
+98  = NRPN LSB
+99  = NRPN MSB
+100 = RPN LSB
+101 = RPN MSB
+102 = 102
+103 = 103
+104 = 104
+105 = 105
+106 = 106
+107 = 107
+108 = 108
+109 = 109
+110 = 110
+111 = 111
+112 = 112
+#Page 8
+113 = 113
+114 = 114
+115 = 115
+116 = 116
+117 = 117
+118 = 118
+119 = 119
+120 = All Sound Off
+121 = Reset All Conrollers
+122 = Local Control on/off
+123 = All Notes Off
+124 = Omni Mode Off 
+125 = Omni Mode On
+126 = Mono Mode On
+127 = Poly Mode On
+
+
+
+
