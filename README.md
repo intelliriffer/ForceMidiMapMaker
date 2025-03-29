@@ -166,7 +166,7 @@ ForceMidiMapMaker is a command-line tool designed to simplify the creation of cu
 ## Author
 Amit Talwar
 
-[[www.amitszone.com](www.amitszone.com)]
+[[www.amitszone.com](https://www.amitszone.com)]
  [[midi.amitszone.com](https://midi.amitszone.com)]
  
 ## License
