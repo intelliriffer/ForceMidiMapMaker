@@ -34,7 +34,7 @@ const template = readTemplate();
 convert(template)
 
 function convert(mapping) {
-    let T = fs.readFileSync("./src/xpm.template").toString();
+    let T = fs.readFileSync(path.join(__dirname, "src/xpm.template")).toString();
     T = T.replace("#NAME#", mapping.name);
     let layout = [];
     let map = [];
