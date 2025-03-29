@@ -90,7 +90,6 @@ def convert(mapping):
 def read_template():
     """Reads the template file and extracts the mapping data."""
     try:
-        print(sys.argv)
         if len(sys.argv) < 2:
              
             raise Exception("Please Provide a Template FileName as Parameter")
