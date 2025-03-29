@@ -1,0 +1,101 @@
+##FORCEMIDIMAP
+#Template for POISON 202 on IOS (use midi learn to learn each Paramter)
+# 1 and 2 prefix ar of osc1 and osc 2
+#CC 119 WITH VALUE OF -- IS USED AS EMPTY PLACE HOLDER
+
+#page1 envelop and filter osc 1
+
+40 = 1 Cutoff
+41 = 1 Res
+42 = @64 1 ENV
+43 = 1 F.TRK
+44 = 1 F.A
+45 = 1 F.D
+46 = 1 F.S
+47 = 1 F.R
+
+48 = 1 A
+49 = 1 D
+50 = 1 S
+51 = 1 R
+52 =1 Cross Mod
+53 = 1 P.A
+54 =1 P.D
+55 =@64 1 P.ENV
+#page 1 end ---------------------------
+
+
+70 = 2 Cutoff
+71 = 2 Res
+72 = @64 2 ENV
+73 = 2 F.TRK
+74 = 2 F.A
+75 = 2 F.D
+76 = 2 F.S
+77 = 2 F.R
+
+78 = 2 A
+79 = 2 D
+80 = 2 S
+81 = 2 R
+82 = 2 Cross Mod
+83 = 2 P.A
+84 = 2 P.D
+85 =@64 2 P.ENV
+#page 2 end ------------------------------
+
+56 = @64 1 Pitch Fine
+57 = 1 PW/MIX
+58 = 1 PWM/DET
+119 = ---
+59 = 2 Pitch Fine
+60 = 2 PW/MIX
+61 = 2 PWM/DET
+
+#global
+7 = @64 Volume
+5 = Portamento
+4 = @64 PATCH GAIN
+12 = EQ LO
+13 = EQ MID
+14 = EQ HI
+15 = MOD WHEEL DEPTH
+#page 3 end ------------------------------
+
+18 = LFO 1 RATE
+19 = LFO 1 FADE
+20 =  @64 LFO 1 TO PITCH
+21 =  @64 LFO 1 TO FILTER
+22 =  @64 LFO 1 TO AMP
+9 = @64 OSC BALANCE
+16 = SUB MIX
+17 = NOISE MIX
+
+
+
+23 = LFO 2 RATE
+24 = LFO 2 FADE
+25 = @64 LFO 2 TO PITCH
+26 = @64 LFO 2 TO FILTER
+27 = @64 LFO 2 TO AMP
+28 = LFO 2 CROSS MOD
+119 ---
+29 = Vel 2  Filter
+30 =  Vel 2 AMP
+31 = VEL to XMOD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
