@@ -28,7 +28,6 @@ const layoutNode = `    <Parameter Position="#ADDRESS">
       </Parameter>`;
 const CCPARAM = `<Parameter Index="#CC" Name="#NAME"/>`;
 
-
 const template = readTemplate();
 convert(template)
 
