@@ -1,4 +1,10 @@
-//convet xpm midimap to text template
+/**
+ * Converts xpm midimap to text template
+ * You likely Do not need to use this file, uless you already have some of yor own xmp Templates
+ * and want to make text templates from Them.
+ * 
+**/
+
 const fs = require('fs');
 const path = require('path');
 const header = "##FORCEMIDIMAP"
@@ -19,7 +25,6 @@ function createTemplate(xpm) {
         output.push(line);
     });
 
-    //console.log(output.join("\n"));
     fs.writeFileSync(xpm.fileName, output.join("\n"));
     console.log("   Generated:", xpm.fileName);
 }
@@ -56,8 +61,6 @@ function readXPM() {
             name: ofn
         }
 
-
-
     } catch (e) {
         console.error("Error *************************************\n", e);
         process.exit(1);
@@ -77,7 +80,7 @@ function getLayout(data) {
     M.forEach(n => {
         rx = new RegExp(`<Parameter +Position="[0-9]+ [0-9]+ [0-9]+" *>.*<Index>([0-9]+)</Index>.*<Value>([0-9.]+)</Value>.*</Parameter>`, 's');
         let items = n.match(rx);
-        let mxp = new RegExp(`<Parameter +Index="${items[1]}" +Name="([^"]+)" */>`, 's');
+        let mxp = new RegExp(`<Parameter +Index="${items[1]}" +Name="([^"]+)" */> `, 's');
         let meta = data.match(mxp);
         // console.log(meta);
         layout.push({
@@ -86,8 +89,6 @@ function getLayout(data) {
             NAME: meta ? meta[1].trim() : '--'
         });
 
-        //console.log(items[1], items[2] * 128);
-        //process.exit();
     });
     return layout;
 
