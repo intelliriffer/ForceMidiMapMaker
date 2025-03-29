@@ -6,14 +6,14 @@
 7   = Volume
 3   = Amp Drive
 4   = Amp Blend
-10   = PAN
+10   = @64 PAN
 5    = Attack - ADSR1
 6    = Decay - ADSR1
 8    = Sustain - ADSR1 
 9    = Release  - ADSR1
 12   = Delay - ADSR 1
 119 = --
-119 = --
+58 = FX ON/OFF
 1   =  Mod Wheel
 11   = Expression
 80 = VINTAGE 
@@ -50,11 +50,11 @@
 38 = BRN ENV COLOR
 119 = -- 
 
-50 = WT1 FINE -/+
+50 = @64 WT1 FINE -/+
 51 = WT1 POSITION
 52 = WT1 PHASE
 53 = WT1 FM IDX
-54 = WT2 FINE -/+
+54 = @64 WT2 FINE -/+
 55 = WT2 POSITION
 56 = WT2 PHASE
 57 = WT2 FM IDX
@@ -79,14 +79,14 @@
 119 =  --
 
 #PAGE-5
-13   = FM Bright -/+
-14   = FM ATTACK -/+
-15   = FM SUSTAIN -/+
-16   = FM DECAY -/+
+13   = @64 FM Bright -/+
+14   = @64 FM ATTACK -/+
+15   = @64 FM SUSTAIN -/+
+16   = @64 FM DECAY -/+
 
-17   = FM TREMOLO -/+
-18   = FM WOW -/+
-19 =   FM VEL SENS -/+
+17   = @64 FM TREMOLO -/+
+18   = @64 FM WOW -/+
+19 =   @64 FM VEL SENS -/+
 119 =  --
 
 20 =   FM PITCH MOD SENS

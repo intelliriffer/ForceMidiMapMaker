@@ -16,6 +16,8 @@
  *  cc 0 is not used so that line will be excluded
  * avoid avoid generic cc for custom parameters like CC:1 Modulation/modwheel, CC:64 Sustain. CC:10 Pan.. 
  * as Force may reset Volume. Sustain and Pan on clip changes..
+ * adding @nnn after = where nnn is a number between 0-127 sets the default value of that parameter when loaded.
+ * for examme 33= @64 BALANCE will show the gui with the LABEL BALANCE and default value of 64
  * Author: Amit Talwar
  **/
 const fs = require('fs');
@@ -24,7 +26,7 @@ const header = "##FORCEMIDIMAP"
 const NOASSIGN = 2147483647;
 const layoutNode = `    <Parameter Position="#ADDRESS">
         <Index>#CC</Index>
-        <Value>0.000000</Value>
+        <Value>#VALUE</Value>
       </Parameter>`;
 const CCPARAM = `<Parameter Index="#CC" Name="#NAME"/>`;
 
@@ -36,25 +38,47 @@ function convert(mapping) {
     T = T.replace("#NAME#", mapping.name);
     let layout = [];
     let map = [];
+
     for (i = 1; i <= 127; i++) {
         let pos = (i - 1) % 16;
         let page = Math.floor(((i - 1) / 16));
         let addr = `${page} 0 ${pos}`;
+        let cc = CCPARAM.replace('#CC', i);
+        let label = mapping.CC[i];
+        label = label.replace(/@[0-9]{1,3}/, '');
+        let value = 0 / 127;
+
+
+
+        cc = cc.replace("#NAME", label);
+        map.push(cc);
+
+
         let l = layoutNode.replace("#ADDRESS", addr);
         let lcc = NOASSIGN;
+
         if (mapping.layout[i] != NOASSIGN) {
             lcc = mapping.CC[mapping.layout[i]];
+
+            let M = lcc.match(/(@[0-9]{1,3})/);
+            if (M) {
+                //label = label.replace(M[1], '').trim();
+                value = (parseFloat(M[1].replace('@', '').trim()) / 128).toFixed(5);
+
+            }
             lcc = lcc == "--" ? NOASSIGN : mapping.layout[i];
         }
         l = l.replace("#CC", lcc);
+        label = lcc;
+
+        if (value == 0) value = value + '.00000';
+        l = l.replace("#VALUE", value);
+
+
         layout.push(l);
-        let cc = CCPARAM.replace('#CC', i);
-        cc = cc.replace("#NAME", mapping.CC[i]);
-        map.push(cc);
+
 
     }
-    //console.log(layout.join("\n"));
-    //console.log(map.join("\n"));
     let ofile = path.resolve(mapping.fileName);
     T = T.replace("#LAYOUT#", layout.join("\n"));
     T = T.replace("#CCMAP#", map.join("\n"));
@@ -91,6 +115,7 @@ function readTemplate() {
         const ofile = path.join(path.dirname(fileName), ofn + ".xpm");
         //console.log(data);
         mapping["CC"] = Array(128).fill("--");
+
         mapping["layout"] = [...Array(128).fill(NOASSIGN)];
         mapping.name = ofn;
         mapping.fileName = ofile
