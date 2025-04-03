@@ -1,0 +1,42 @@
+##FORCEMIDIMAP
+#---PAGE 1---------------------------
+7 = Volume
+18 = Macro 1
+19 = Macro 2
+16 = Macro 3
+17 = Macro 4
+93 = FX1 Mix
+91 = FX2 MIX
+124 = --
+
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+
+
+#---Page 2 Lines -------------------
+
+74 = Line 1 DCW
+73 =  Line 1 ENV 2
+75 = Line 1 DCW Env
+81 = Line 1 Level
+80 = Line 1 Amplitude
+124 = --
+124 = --
+124 = --
+
+71 = Line 2 DCW
+79 = Line 2 DCW ENV
+83 = Line 2 Level
+82 = Line 2 Amplitude
+
+
+
+
+
+

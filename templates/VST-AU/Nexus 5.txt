@@ -1,0 +1,57 @@
+##FORCEMIDIMAP
+#basic setup for nexus vst, due to nature of nextux very few paramters here are mapped.
+#---PAGE 1---------------------------
+
+16 = Macro 1
+17 = Macro 2
+18 = Macro 3
+19 = Macro 4
+124 = --
+ 8 = Volume
+ 1 = Mod Wheel
+ 124 = --
+
+
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+
+
+#---Page 2 FX -------------------
+20= Reverb Mix
+21 = Reverb Decay
+22 = Reverb Mod
+23 = --
+24 = Delay Mix
+25 = Delay Feedback
+26 = Delay Mod
+27 = --
+
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+
+#---Page 3 Experimental -------------------
+
+40 = Previous Preset
+41 = Next Preset
+42 = Random Preset
+
+
+
+
+
+
+
+
+

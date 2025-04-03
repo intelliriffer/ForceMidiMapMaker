@@ -1,0 +1,95 @@
+##FORCEMIDIMAP
+#you need to Midi learn each of these parameters in Dune 3
+#cc 3 is being used as empry space holder.
+
+#---PAGE 1---Filters------------------------
+12 = F1 Cutoff 
+13 = F1 Resonance
+14 = F1 Drive
+15 = F1 ENV
+17 = F2 Cutoff 
+18 = F2 Resonance
+19 = F2 Drive
+20 = F2 ENV
+
+16 = F1 Key Track
+21 = F2 Key Track
+22 = F. Attack
+23 = F. Decay
+24 = F. Sustain
+25 =  F. Release
+26 = F. Analog/Digital
+27 =  @64 F1-F2 Balance
+
+#---Page 2 AMP and Mixer -------------------
+28 = Attack
+29 = Decay
+30 = Sustain
+31 = Release
+33 =  Amp Env Level
+3  = -- 
+3  = --
+3  = --
+
+36 = OSC1 MIX
+37 = OSC2 MIX
+38 = OSC 3 MIX
+39 = Ring Mox Mix
+40 = Noise Mix
+4  = F. Fx Amount
+3  = --
+3  = --
+
+#----page 3 Oscillators
+41 = O1 Semi
+42 = O1 Fine
+43 = O1 Detune
+44 = O1 Spread
+45 = 01 VA Freq
+46 = 01 VA PW #only with square wave
+47 = O1 WT Position
+48 = 01 WT Interpolation
+
+51 = O2 Semi
+52 = O2 Fine
+53 = O2 Detune
+54 = O2 Spread
+55 = O2 VA Freq
+56 = O2 VA PW #only with square wave
+57 = O2 WT Position
+58 = O2 WT Interpolation
+
+
+
+
+#----- page 4 General ----------
+1 =   Mod Wheel
+8  =  Volume #do not cc 7 as foce will reset that on start stop!
+5 =   Glide
+34 = Unison Detune
+35 = Unison Spread
+70 = Noise LPF
+71 = Noise HPF
+72 = Noise Width
+
+73 = Noise Type
+74= @64 OSC1 PAN
+75= @64 OSC2 PAN
+76= @64 OSC3 PAN
+77= @64 Ring Mod PAN
+78= @64 Noise PAN
+79 = O3 SEMI
+80 = O3 FINE
+
+
+
+
+
+
+
+
+
+
+
+
+
