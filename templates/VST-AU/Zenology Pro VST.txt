@@ -1,0 +1,58 @@
+##FORCEMIDIMAP
+#basic setup for nexus vst, due to nature of nextux very few paramters here are mapped.
+#---PAGE 1--MACROS-------------------------
+
+74 = @64 Cutoff 
+71 = @64 Resonance
+73 = @64 Attack
+72 = @64  Release
+77  =@64 Vibrato
+ 8 = Volume
+ 1 = Mod Wheel
+ 91 = Reverb Send 
+
+
+92 = @63 UNISON ON/OFF
+93 = @63 LEGATO ON/OFF
+94 = @63 Portamento ON/OFF
+95 = @63 Mono ON/OFF
+5 = Portamento Time
+6 = Analog Feel
+12 = Unison Detune
+13 = Unison Size
+
+
+#---Page 2 FX -------------------
+20= Reverb Level
+21 = MFX Level
+22 = MFX 2 Reverb
+27 = --
+23 = Partial 1 Level
+24 = Partial 2 Level
+25 = Partial 3 Level
+26 = Partial 4 Level
+
+
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+124 = --
+
+#---Page 3  -------------------
+
+40 = --
+41 = --
+42 = --
+
+
+
+
+
+
+
+
+

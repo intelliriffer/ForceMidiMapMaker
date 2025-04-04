@@ -1,0 +1,54 @@
+##FORCEMIDIMAP
+#basic setup for vital vst, due to nature of vital very few paramters here are mapped.
+#---PAGE 1---------------------------
+
+16 = Macro 1
+17 = Macro 2
+18 = Macro 3
+19 = Macro 4
+124 = --
+124 = --
+ 1 = Mod Wheel
+ 8 = Volume
+
+
+70 = F1 Cutoff
+71 = F1 Res
+72 = F1 Drive
+73 = F1 Mix
+74 = F2 Cutoff
+75 = F2 Res
+76 = F2 Drive
+77 = F2 Mix
+
+
+#---Page 2 Env -------------------
+20= E1 Attack
+21 = E1 Decay
+22 = E1 Sustain
+23 = E1 Release
+24 = E2 Attack
+25 = E2 Decay
+26 = E2 Sustain
+27 = E2 Release
+
+28 = E3 Attack
+29 = E3 Decay
+30 = E3 Sustain
+31 = E3 Release
+33 = E1 Delay
+34 =E2 Delay
+35 = E3 Delay
+36 = --
+
+#---Page 3 Fxl -------------------
+
+37 = Reverv Mix
+38 = Reverb Time
+39 = Reverb Size
+40 = Reverb Pre Delay
+41 = Delay Mix
+42 = Delay Spread
+43 = Delay Timing
+44 = Delay Time Type
+

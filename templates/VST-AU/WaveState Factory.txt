@@ -1,0 +1,74 @@
+##FORCEMIDIMAP
+#basic setup for nexus vst, due to nature of nextux very few paramters here are mapped.
+#---PAGE 1--MACROS-------------------------
+
+9 = Scale Select
+2  = --
+13  = --
+14  = --
+15  =  --
+16 = X
+17 = Y
+1= Mod Wheel
+
+
+24 = 1 Master Knob
+25 = 2 Timing Knob
+26 = 3 Sample Knob
+27 = 4 Pitch Knob
+28= 5 Shape Knob
+29 = 6 Gate Knob
+30 =7 Step Seq Knob
+31 =8 Speed Knob
+
+
+#---Page 2 Layer A and B Knobs -------------------
+80= A1 Mod Knob
+81 = A2 Mod Knob
+82 = A3 Mod Knob
+83 = A4 Mod Knob
+84 = A5 Mod Knob
+85 = A6 Mod Knob
+86 = A7 Mod Knob
+87 = A8 Mod Knob
+
+
+88 = B1 Mod Knob
+89 = B2 Mod Knob
+90 = B3 Mod Knob
+91 = B4 Mod Knob
+92 = B5 Mod Knob
+93 = B6 Mod Knob
+94 = B7 Mod Knob
+95 = B8 Mod Knob
+
+
+#---Page 3  Layers C and D -------------------
+
+102 = C1 Mod Knob
+103 = C2 Mod Knob
+104 = C3 Mod Knob
+105 = C4 Mod Knob
+106 = C5 Mod Knob
+107 = C6 Mod Knob
+108 = C7 Mod Knob
+109 = C8 Mod Knob
+
+
+110 = D1 Mod Knob
+111 = D2 Mod Knob
+112 = D3 Mod Knob
+113 = D4 Mod Knob
+114 = D5 Mod Knob
+115 = D6 Mod Knob
+116 = D7 Mod Knob
+117 = D8 Mod Knob
+
+
+
+
+
+
+
+
+
