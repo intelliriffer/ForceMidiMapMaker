@@ -540,516 +540,517 @@
       </PadNote>
     </PadNoteMap>
     <ProgramEditConfig>
-<Parameter Position="0 0 0">
+    <Parameter Position="0 0 0">
         <Index>1</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 1">
+    <Parameter Position="0 0 1">
         <Index>2</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 2">
+    <Parameter Position="0 0 2">
         <Index>7</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 3">
+    <Parameter Position="0 0 3">
         <Index>11</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 4">
+    <Parameter Position="0 0 4">
         <Index>5</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 5">
+    <Parameter Position="0 0 5">
         <Index>125</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 6">
+    <Parameter Position="0 0 6">
         <Index>57</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 7">
+    <Parameter Position="0 0 7">
         <Index>58</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 8">
+    <Parameter Position="0 0 8">
         <Index>126</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 9">
+    <Parameter Position="0 0 9">
         <Index>124</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 10">
+    <Parameter Position="0 0 10">
         <Index>127</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 11">
+    <Parameter Position="0 0 11">
         <Index>122</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 12">
+    <Parameter Position="0 0 12">
         <Index>50</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 13">
+    <Parameter Position="0 0 13">
         <Index>51</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 14">
+    <Parameter Position="0 0 14">
         <Index>55</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="0 0 15">
+    <Parameter Position="0 0 15">
         <Index>56</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 0">
+    <Parameter Position="1 0 0">
         <Index>28</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 1">
+    <Parameter Position="1 0 1">
         <Index>29</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 2">
+    <Parameter Position="1 0 2">
         <Index>85</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 3">
+    <Parameter Position="1 0 3">
         <Index>20</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 4">
+    <Parameter Position="1 0 4">
         <Index>23</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 5">
+    <Parameter Position="1 0 5">
         <Index>24</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 6">
+    <Parameter Position="1 0 6">
         <Index>25</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 7">
+    <Parameter Position="1 0 7">
         <Index>26</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 8">
+    <Parameter Position="1 0 8">
         <Index>27</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 9">
+    <Parameter Position="1 0 9">
         <Index>21</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 10">
+    <Parameter Position="1 0 10">
         <Index>22</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 11">
+    <Parameter Position="1 0 11">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 12">
+    <Parameter Position="1 0 12">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 13">
+    <Parameter Position="1 0 13">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 14">
+    <Parameter Position="1 0 14">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="1 0 15">
+    <Parameter Position="1 0 15">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 0">
+    <Parameter Position="2 0 0">
         <Index>38</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 1">
+    <Parameter Position="2 0 1">
         <Index>39</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 2">
+    <Parameter Position="2 0 2">
         <Index>86</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 3">
+    <Parameter Position="2 0 3">
         <Index>30</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 4">
+    <Parameter Position="2 0 4">
         <Index>33</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 5">
+    <Parameter Position="2 0 5">
         <Index>34</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 6">
+    <Parameter Position="2 0 6">
         <Index>35</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 7">
+    <Parameter Position="2 0 7">
         <Index>36</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 8">
+    <Parameter Position="2 0 8">
         <Index>37</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 9">
+    <Parameter Position="2 0 9">
         <Index>31</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 10">
+    <Parameter Position="2 0 10">
         <Index>32</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 11">
+    <Parameter Position="2 0 11">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 12">
+    <Parameter Position="2 0 12">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 13">
+    <Parameter Position="2 0 13">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 14">
+    <Parameter Position="2 0 14">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="2 0 15">
+    <Parameter Position="2 0 15">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 0">
+    <Parameter Position="3 0 0">
         <Index>48</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 1">
+    <Parameter Position="3 0 1">
         <Index>49</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 2">
+    <Parameter Position="3 0 2">
         <Index>87</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 3">
+    <Parameter Position="3 0 3">
         <Index>40</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 4">
+    <Parameter Position="3 0 4">
         <Index>43</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 5">
+    <Parameter Position="3 0 5">
         <Index>44</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 6">
+    <Parameter Position="3 0 6">
         <Index>45</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 7">
+    <Parameter Position="3 0 7">
         <Index>46</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 8">
+    <Parameter Position="3 0 8">
         <Index>47</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 9">
+    <Parameter Position="3 0 9">
         <Index>41</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 10">
+    <Parameter Position="3 0 10">
         <Index>42</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 11">
+    <Parameter Position="3 0 11">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 12">
+    <Parameter Position="3 0 12">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 13">
+    <Parameter Position="3 0 13">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 14">
+    <Parameter Position="3 0 14">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="3 0 15">
+    <Parameter Position="3 0 15">
         <Index>64</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 0">
+    <Parameter Position="4 0 0">
         <Index>70</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 1">
+    <Parameter Position="4 0 1">
         <Index>71</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 2">
+    <Parameter Position="4 0 2">
         <Index>72</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 3">
+    <Parameter Position="4 0 3">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 4">
+    <Parameter Position="4 0 4">
         <Index>73</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 5">
+    <Parameter Position="4 0 5">
         <Index>74</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 6">
+    <Parameter Position="4 0 6">
         <Index>75</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 7">
+    <Parameter Position="4 0 7">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 8">
+    <Parameter Position="4 0 8">
         <Index>76</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 9">
+    <Parameter Position="4 0 9">
         <Index>78</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 10">
+    <Parameter Position="4 0 10">
         <Index>77</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 11">
+    <Parameter Position="4 0 11">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 12">
+    <Parameter Position="4 0 12">
         <Index>80</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 13">
+    <Parameter Position="4 0 13">
         <Index>79</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 14">
+    <Parameter Position="4 0 14">
         <Index>81</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="4 0 15">
+    <Parameter Position="4 0 15">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 0">
+    <Parameter Position="5 0 0">
         <Index>90</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 1">
+    <Parameter Position="5 0 1">
         <Index>91</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 2">
+    <Parameter Position="5 0 2">
         <Index>92</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 3">
+    <Parameter Position="5 0 3">
         <Index>93</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 4">
+    <Parameter Position="5 0 4">
         <Index>96</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 5">
+    <Parameter Position="5 0 5">
         <Index>97</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 6">
+    <Parameter Position="5 0 6">
         <Index>98</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 7">
+    <Parameter Position="5 0 7">
         <Index>99</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 8">
+    <Parameter Position="5 0 8">
         <Index>94</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 9">
+    <Parameter Position="5 0 9">
         <Index>95</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 10">
+    <Parameter Position="5 0 10">
         <Index>104</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 11">
+    <Parameter Position="5 0 11">
         <Index>105</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 12">
+    <Parameter Position="5 0 12">
         <Index>100</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 13">
+    <Parameter Position="5 0 13">
         <Index>101</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 14">
+    <Parameter Position="5 0 14">
         <Index>102</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="5 0 15">
+    <Parameter Position="5 0 15">
         <Index>103</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 0">
+    <Parameter Position="6 0 0">
         <Index>106</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 1">
+    <Parameter Position="6 0 1">
         <Index>107</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 2">
+    <Parameter Position="6 0 2">
         <Index>108</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 3">
+    <Parameter Position="6 0 3">
         <Index>109</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 4">
+    <Parameter Position="6 0 4">
         <Index>112</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 5">
+    <Parameter Position="6 0 5">
         <Index>113</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 6">
+    <Parameter Position="6 0 6">
         <Index>114</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 7">
+    <Parameter Position="6 0 7">
         <Index>115</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 8">
+    <Parameter Position="6 0 8">
         <Index>118</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 9">
+    <Parameter Position="6 0 9">
         <Index>119</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 10">
+    <Parameter Position="6 0 10">
         <Index>120</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 11">
+    <Parameter Position="6 0 11">
         <Index>121</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 12">
+    <Parameter Position="6 0 12">
         <Index>110</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 13">
+    <Parameter Position="6 0 13">
         <Index>111</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 14">
+    <Parameter Position="6 0 14">
         <Index>116</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="6 0 15">
+    <Parameter Position="6 0 15">
         <Index>117</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 0">
+    <Parameter Position="7 0 0">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 1">
+    <Parameter Position="7 0 1">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 2">
+    <Parameter Position="7 0 2">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 3">
+    <Parameter Position="7 0 3">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 4">
+    <Parameter Position="7 0 4">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 5">
+    <Parameter Position="7 0 5">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 6">
+    <Parameter Position="7 0 6">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 7">
+    <Parameter Position="7 0 7">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 8">
+    <Parameter Position="7 0 8">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 9">
+    <Parameter Position="7 0 9">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 10">
+    <Parameter Position="7 0 10">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 11">
+    <Parameter Position="7 0 11">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 12">
+    <Parameter Position="7 0 12">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 13">
+    <Parameter Position="7 0 13">
         <Index>2147483647</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
-<Parameter Position="7 0 14">
+    <Parameter Position="7 0 14">
         <Index>123</Index>
-        <Value>0.000000</Value>
+        <Value>0.00000</Value>
       </Parameter>
+
 <ParameterNames>
-        <Parameter Index="1" Name="CY Control"/>
+<Parameter Index="1" Name="CY Control"/>
 <Parameter Index="2" Name="CX Control"/>
 <Parameter Index="3" Name="--"/>
 <Parameter Index="4" Name="--"/>
@@ -1176,7 +1177,7 @@
 <Parameter Index="125" Name="Gain Mod"/>
 <Parameter Index="126" Name="Panning Mod"/>
 <Parameter Index="127" Name="VCA2 Env Gain"/>
-        </ParameterNames>
+</ParameterNames>
 </ProgramEditConfig>
   </Program>
 </MPCVObject>

@@ -8,7 +8,7 @@
     <Platform>Linux</Platform>
   </Version>
   <Program type="MIDI">
-    <ProgramName>KIEV - GDT</ProgramName>
+    <ProgramName>PEAK</ProgramName>
     <ProgramPads-v2.10>{
     &quot;ProgramPads-v2.10&quot;: {
         &quot;Universal&quot;: {
@@ -541,175 +541,175 @@
     </PadNoteMap>
     <ProgramEditConfig>
     <Parameter Position="0 0 0">
-        <Index>7</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 1">
-        <Index>5</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 2">
-        <Index>64</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 3">
-        <Index>30</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 4">
-        <Index>88</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 5">
-        <Index>89</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 6">
-        <Index>74</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 7">
-        <Index>71</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 8">
-        <Index>76</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 9">
-        <Index>77</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 10">
-        <Index>78</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 11">
-        <Index>79</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 12">
-        <Index>73</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 13">
-        <Index>75</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 14">
-        <Index>80</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="0 0 15">
-        <Index>72</Index>
-        <Value>0.00000</Value>
-      </Parameter>
-    <Parameter Position="1 0 0">
         <Index>29</Index>
         <Value>0.00000</Value>
       </Parameter>
-    <Parameter Position="1 0 1">
-        <Index>81</Index>
+    <Parameter Position="0 0 1">
+        <Index>61</Index>
         <Value>0.00000</Value>
       </Parameter>
-    <Parameter Position="1 0 2">
-        <Index>82</Index>
+    <Parameter Position="0 0 2">
+        <Index>79</Index>
         <Value>0.00000</Value>
       </Parameter>
-    <Parameter Position="1 0 3">
-        <Index>83</Index>
+    <Parameter Position="0 0 3">
+        <Index>75</Index>
         <Value>0.00000</Value>
       </Parameter>
-    <Parameter Position="1 0 4">
-        <Index>84</Index>
+    <Parameter Position="0 0 4">
+        <Index>36</Index>
         <Value>0.00000</Value>
       </Parameter>
-    <Parameter Position="1 0 5">
-        <Index>85</Index>
+    <Parameter Position="0 0 5">
+        <Index>80</Index>
         <Value>0.00000</Value>
       </Parameter>
-    <Parameter Position="1 0 6">
+    <Parameter Position="0 0 6">
+        <Index>78</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="0 0 7">
+        <Index>77</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="0 0 8">
+        <Index>90</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="0 0 9">
+        <Index>91</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="0 0 10">
+        <Index>92</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="0 0 11">
+        <Index>93</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="0 0 12">
+        <Index>94</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="0 0 13">
+        <Index>95</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="0 0 14">
+        <Index>117</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="0 0 15">
+        <Index>103</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="1 0 0">
         <Index>86</Index>
         <Value>0.00000</Value>
       </Parameter>
-    <Parameter Position="1 0 7">
+    <Parameter Position="1 0 1">
         <Index>87</Index>
         <Value>0.00000</Value>
       </Parameter>
+    <Parameter Position="1 0 2">
+        <Index>88</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="1 0 3">
+        <Index>89</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="1 0 4">
+        <Index>23</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="1 0 5">
+        <Index>24</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="1 0 6">
+        <Index>25</Index>
+        <Value>0.00000</Value>
+      </Parameter>
+    <Parameter Position="1 0 7">
+        <Index>27</Index>
+        <Value>0.00000</Value>
+      </Parameter>
     <Parameter Position="1 0 8">
-        <Index>14</Index>
+        <Index>26</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="1 0 9">
-        <Index>12</Index>
+        <Index>30</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="1 0 10">
-        <Index>1</Index>
+        <Index>81</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="1 0 11">
-        <Index>2147483647</Index>
+        <Index>82</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="1 0 12">
-        <Index>2147483647</Index>
+        <Index>83</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="1 0 13">
-        <Index>2147483647</Index>
+        <Index>31</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="1 0 14">
-        <Index>2147483647</Index>
+        <Index>84</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="1 0 15">
-        <Index>2147483647</Index>
+        <Index>85</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 0">
-        <Index>2147483647</Index>
+        <Index>104</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 1">
-        <Index>2147483647</Index>
+        <Index>108</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 2">
-        <Index>2147483647</Index>
+        <Index>109</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 3">
-        <Index>2147483647</Index>
+        <Index>110</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 4">
-        <Index>2147483647</Index>
+        <Index>112</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 5">
-        <Index>2147483647</Index>
+        <Index>113</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 6">
-        <Index>2147483647</Index>
+        <Index>105</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 7">
-        <Index>2147483647</Index>
+        <Index>118</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 8">
-        <Index>2147483647</Index>
+        <Index>107</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 9">
-        <Index>2147483647</Index>
+        <Index>114</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 10">
-        <Index>2147483647</Index>
+        <Index>115</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="2 0 11">
@@ -733,19 +733,19 @@
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="3 0 0">
-        <Index>2147483647</Index>
+        <Index>7</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="3 0 1">
-        <Index>2147483647</Index>
+        <Index>11</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="3 0 2">
-        <Index>2147483647</Index>
+        <Index>5</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="3 0 3">
-        <Index>2147483647</Index>
+        <Index>35</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="3 0 4">
@@ -801,7 +801,7 @@
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="4 0 1">
-        <Index>102</Index>
+        <Index>2147483647</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="4 0 2">
@@ -809,15 +809,15 @@
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="4 0 3">
-        <Index>105</Index>
+        <Index>2147483647</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="4 0 4">
-        <Index>104</Index>
+        <Index>2147483647</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="4 0 5">
-        <Index>103</Index>
+        <Index>2147483647</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="4 0 6">
@@ -1029,7 +1029,7 @@
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="7 0 10">
-        <Index>123</Index>
+        <Index>2147483647</Index>
         <Value>0.00000</Value>
       </Parameter>
     <Parameter Position="7 0 11">
@@ -1050,20 +1050,20 @@
       </Parameter>
 
 <ParameterNames>
-<Parameter Index="1" Name="Fx Param2 MW"/>
+<Parameter Index="1" Name="--"/>
 <Parameter Index="2" Name="--"/>
 <Parameter Index="3" Name="--"/>
 <Parameter Index="4" Name="--"/>
-<Parameter Index="5" Name="Portamento"/>
+<Parameter Index="5" Name="Glide Time"/>
 <Parameter Index="6" Name="--"/>
 <Parameter Index="7" Name="Volume"/>
 <Parameter Index="8" Name="--"/>
 <Parameter Index="9" Name="--"/>
 <Parameter Index="10" Name="--"/>
-<Parameter Index="11" Name="--"/>
-<Parameter Index="12" Name="Fx Param1"/>
+<Parameter Index="11" Name="Expression"/>
+<Parameter Index="12" Name="--"/>
 <Parameter Index="13" Name="--"/>
-<Parameter Index="14" Name="Fx Type"/>
+<Parameter Index="14" Name="--"/>
 <Parameter Index="15" Name="--"/>
 <Parameter Index="16" Name="--"/>
 <Parameter Index="17" Name="--"/>
@@ -1072,20 +1072,20 @@
 <Parameter Index="20" Name="--"/>
 <Parameter Index="21" Name="--"/>
 <Parameter Index="22" Name="--"/>
-<Parameter Index="23" Name="--"/>
-<Parameter Index="24" Name="--"/>
-<Parameter Index="25" Name="--"/>
-<Parameter Index="26" Name="--"/>
-<Parameter Index="27" Name="--"/>
+<Parameter Index="23" Name="MIX OSC 1"/>
+<Parameter Index="24" Name="MIX OSC 2"/>
+<Parameter Index="25" Name="MIX OSC 3"/>
+<Parameter Index="26" Name="MIX RING MOD 1*2"/>
+<Parameter Index="27" Name="MIX NOISE"/>
 <Parameter Index="28" Name="--"/>
-<Parameter Index="29" Name="Filter Type"/>
-<Parameter Index="30" Name="Filter Env Amount"/>
-<Parameter Index="31" Name="--"/>
+<Parameter Index="29" Name="Cutoff"/>
+<Parameter Index="30" Name="LFO1 RATE"/>
+<Parameter Index="31" Name="LFO 2 Rate"/>
 <Parameter Index="32" Name="--"/>
 <Parameter Index="33" Name="--"/>
 <Parameter Index="34" Name="--"/>
-<Parameter Index="35" Name="--"/>
-<Parameter Index="36" Name="--"/>
+<Parameter Index="35" Name="Glide On/Off"/>
+<Parameter Index="36" Name="Filter Post Drive"/>
 <Parameter Index="37" Name="--"/>
 <Parameter Index="38" Name="--"/>
 <Parameter Index="39" Name="--"/>
@@ -1110,69 +1110,69 @@
 <Parameter Index="58" Name="--"/>
 <Parameter Index="59" Name="--"/>
 <Parameter Index="60" Name="--"/>
-<Parameter Index="61" Name="--"/>
+<Parameter Index="61" Name="Cutoff 2"/>
 <Parameter Index="62" Name="--"/>
 <Parameter Index="63" Name="--"/>
-<Parameter Index="64" Name="Sustain On/Off"/>
+<Parameter Index="64" Name="--"/>
 <Parameter Index="65" Name="--"/>
 <Parameter Index="66" Name="--"/>
 <Parameter Index="67" Name="--"/>
 <Parameter Index="68" Name="--"/>
 <Parameter Index="69" Name="--"/>
 <Parameter Index="70" Name="--"/>
-<Parameter Index="71" Name="Resonance"/>
-<Parameter Index="72" Name="Release"/>
-<Parameter Index="73" Name="Attack"/>
-<Parameter Index="74" Name="Cutoff"/>
-<Parameter Index="75" Name="Decay"/>
-<Parameter Index="76" Name="F. Attack"/>
-<Parameter Index="77" Name="F. Decay"/>
-<Parameter Index="78" Name="F. Sustain"/>
-<Parameter Index="79" Name="F. Release"/>
-<Parameter Index="80" Name="Sustain"/>
-<Parameter Index="81" Name="OSC1 Pitch"/>
-<Parameter Index="82" Name="OSC2 Pitch"/>
-<Parameter Index="83" Name="OSC2 TUNE"/>
-<Parameter Index="84" Name="OSC3 Pitch"/>
-<Parameter Index="85" Name="OSC3 Tune"/>
-<Parameter Index="86" Name="OSC4 Pitch"/>
-<Parameter Index="87" Name="OSC4 Tune"/>
-<Parameter Index="88" Name="Morph X"/>
-<Parameter Index="89" Name="Morph Y"/>
-<Parameter Index="90" Name="--"/>
-<Parameter Index="91" Name="--"/>
-<Parameter Index="92" Name="--"/>
-<Parameter Index="93" Name="--"/>
-<Parameter Index="94" Name="--"/>
-<Parameter Index="95" Name="--"/>
+<Parameter Index="71" Name="--"/>
+<Parameter Index="72" Name="--"/>
+<Parameter Index="73" Name="--"/>
+<Parameter Index="74" Name="--"/>
+<Parameter Index="75" Name="F.Key Tracking"/>
+<Parameter Index="76" Name="--"/>
+<Parameter Index="77" Name="AMPE 2 Filter"/>
+<Parameter Index="78" Name="ME1 2 FIlter"/>
+<Parameter Index="79" Name="Resonance"/>
+<Parameter Index="80" Name="Filter Over Drive"/>
+<Parameter Index="81" Name="LFO 1 Sync Rate"/>
+<Parameter Index="82" Name="LFO 1 Fade Time"/>
+<Parameter Index="83" Name="LFO 2 Range"/>
+<Parameter Index="84" Name="LFO 2 Sync Rate"/>
+<Parameter Index="85" Name="LFO 2 Fade Time"/>
+<Parameter Index="86" Name="Attack"/>
+<Parameter Index="87" Name="Decay"/>
+<Parameter Index="88" Name="Sustain"/>
+<Parameter Index="89" Name="Release"/>
+<Parameter Index="90" Name="ME1 Attack"/>
+<Parameter Index="91" Name="ME1 Decay"/>
+<Parameter Index="92" Name="ME1 Sustain"/>
+<Parameter Index="93" Name="ME1 Release"/>
+<Parameter Index="94" Name="ME2 Attack"/>
+<Parameter Index="95" Name="ME2 Decay"/>
 <Parameter Index="96" Name="--"/>
 <Parameter Index="97" Name="--"/>
 <Parameter Index="98" Name="--"/>
 <Parameter Index="99" Name="--"/>
 <Parameter Index="100" Name="--"/>
 <Parameter Index="101" Name="--"/>
-<Parameter Index="102" Name="1/2 Depth"/>
-<Parameter Index="103" Name="3/4 Depth"/>
-<Parameter Index="104" Name="1/2 Speed"/>
-<Parameter Index="105" Name="3/4 Speed"/>
+<Parameter Index="102" Name="--"/>
+<Parameter Index="103" Name="ME2 Release"/>
+<Parameter Index="104" Name="Distortion Level"/>
+<Parameter Index="105" Name="Chorus Level"/>
 <Parameter Index="106" Name="--"/>
-<Parameter Index="107" Name="--"/>
-<Parameter Index="108" Name="--"/>
-<Parameter Index="109" Name="--"/>
-<Parameter Index="110" Name="--"/>
+<Parameter Index="107" Name="Chorus Feedback"/>
+<Parameter Index="108" Name="Delay Level"/>
+<Parameter Index="109" Name="Delay Time"/>
+<Parameter Index="110" Name="Delay Feedback"/>
 <Parameter Index="111" Name="--"/>
-<Parameter Index="112" Name="--"/>
-<Parameter Index="113" Name="--"/>
-<Parameter Index="114" Name="--"/>
-<Parameter Index="115" Name="--"/>
+<Parameter Index="112" Name="Reverb Level"/>
+<Parameter Index="113" Name="Reverb Time"/>
+<Parameter Index="114" Name="ANIMATE 1 Hold"/>
+<Parameter Index="115" Name="ANIMATE 2 Hold"/>
 <Parameter Index="116" Name="--"/>
-<Parameter Index="117" Name="--"/>
-<Parameter Index="118" Name="--"/>
+<Parameter Index="117" Name="ME2 Sustain"/>
+<Parameter Index="118" Name="Chorus Rate"/>
 <Parameter Index="119" Name="--"/>
 <Parameter Index="120" Name="--"/>
 <Parameter Index="121" Name="--"/>
 <Parameter Index="122" Name="--"/>
-<Parameter Index="123" Name="All Notes Off"/>
+<Parameter Index="123" Name="--"/>
 <Parameter Index="124" Name="--"/>
 <Parameter Index="125" Name="--"/>
 <Parameter Index="126" Name="--"/>
