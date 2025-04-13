@@ -4,7 +4,8 @@
 # as they are reserved for most things and forces also resets them
 #you can use empry cc: 124 = -- as empty placeholder
 # you need to load the map in force nad midi learn each parameter in the vst
-#tal sampler does not seem to be rmeembering cc so this template might be futile.
+# Make sure LOCK next to MIDI learn is Checked otherwise it will not Remember your Midi Learn Mapping between preset changes
+# Tal sampler forgets midi Mapping on new Instances so You might have to Midi learn each times which is a PITA.
 
 #---PAGE 1--- Filter and Globals------------------------
 1 = Mod Wheel
