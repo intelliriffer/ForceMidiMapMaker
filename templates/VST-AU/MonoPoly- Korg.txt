@@ -1,0 +1,49 @@
+##FORCEMIDIMAP
+#only factory mapped cc included in this file, 
+#  however you can add other unmapeed functions to cc here and midi learn them.
+#--FILTER and ENV-----------------------
+74 = Cutoff
+71 = Resonance
+79 = ENV VCF INT
+85 = VCF Tracking
+28 = Attack VCF
+29 = Decay VCF
+30 = Sustain VCF
+31 = Release VCF
+
+73 = Attack VCA
+75 = Dcay VCA
+70 = Sustain VCA
+72 = Release VCA
+19 = VCO 1 Level
+20 = VCO 2 Level
+82 = VCO 3 Level
+83 = VCO 4 Level
+
+#----- PAGE 2 ------------------------------
+11  = Volume #expressions
+10 = PAN 
+5   = Portamento Time
+18 = @64 Master VCO Tune
+14  =  PWM Width
+15  = PWM Intensity 
+12 = VCO X-MOD INT
+13 = VCO FREE MOD 
+
+
+27 = MG1 Times
+76 = MG1 Wave
+21 = MG2 Times
+22 = MG2 Wave
+3 = --
+3 = --
+3 = --
+24 = Noise Level
+
+
+
+#---- PAGE 3-----------------------------------
+88 = ARP ON/OFF
+25 = ARP LATCH
+26 = ARP MODE
+23 = ARP RANGE

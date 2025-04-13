@@ -1,0 +1,35 @@
+##FORCEMIDIMAP
+
+# Do not USE CC : 1, 7, 10,11,32,64, 120-127 
+#for some commands cckemper responds to any value received to toggle thing on off these are labelled as (any)
+#most other commands are sysex based so not supported!
+
+#-- PAGE 1 ---------------------------
+72 = Amp Gain
+68 = Delay Mix
+69 = Delay Feedback
+70 - Reverb Mix
+71 = Reverb Time
+73 =  Monitor/Output Volume
+26 = Delay  On/Off - any
+28 = Reverb  On/Off - any
+
+27 = Delay Tail On/Off - any
+29 = Reverb Tail On/Off - any
+33 = Rotary Slow/Fast 0-1
+34 = Delay Infinte Fedback 0-1
+35 = Delay Hold 0-1
+1  = Wah Pedal #Mod wheel
+7 = Volume Pedal #will reset on Force.. problematic
+
+
+
+#---PAGE 2---------------------------
+16 = All Stomps On Off - any
+17 = A Stomp On/Off - any
+18 = B Stomp On/Off - any
+19 = C Stomp On/Off - any
+20 = D Stomp On/Off - any
+22 = X Stomp On/Off - any
+24 = MOD Stomp On/Off - any
+31 = Select Tuner (any)
