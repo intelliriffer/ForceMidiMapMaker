@@ -47,30 +47,76 @@
 56 = @64 1 Pitch Fine
 57 = 1 PW/MIX
 58 = 1 PWM/DET
-119 = ---
+119 = --
 59 = 2 Pitch Fine
 60 = 2 PW/MIX
 61 = 2 PWM/DET
+119 = --
 
 #global
 7 = @64 Volume
 5 = Portamento
 4 = @64 PATCH GAIN
+15 = MOD WHEEL DEPTH
 12 = EQ LO
 13 = EQ MID
 14 = EQ HI
-15 = MOD WHEEL DEPTH
+119 = --
+
+
 #page 3 end ------------------------------
+
+86 = Reverb Mix
+87 = Reverb Size
+88 = Reverb Color
+119 = --
+89 = Delay Mix
+90 = Delay Time
+91 = Delay Feedback
+119 = --
+
+92 = Dist Mix
+93 = Dist Gain
+94 = Dist Shape
+119 = --
+95 = Chorus/Flanger Mix
+96 = Chorus/Flanger Rate
+97 = Chorus/Flanger Depth
+119= --
+
+
+
+#page 4 end ------------------------------
+
+29 = Vel 2  Filter
+30 =  Vel 2 AMP
+31 = VE L to XMOD
+119 = --
+9 = @64 OSC BALANCE
+16 = SUB MIX
+17 = NOISE MIX
+119 = --
+
+119 = --
+119 = --
+119 = --
+119 = --
+119 = --
+119 = --
+119 = --
+119 = --
+
+## page 5 end ------------------------------
+
 
 18 = LFO 1 RATE
 19 = LFO 1 FADE
 20 =  @64 LFO 1 TO PITCH
 21 =  @64 LFO 1 TO FILTER
 22 =  @64 LFO 1 TO AMP
-9 = @64 OSC BALANCE
-16 = SUB MIX
-17 = NOISE MIX
-
+119 = --
+119 = --
+119 = --
 
 
 23 = LFO 2 RATE
@@ -79,23 +125,7 @@
 26 = @64 LFO 2 TO FILTER
 27 = @64 LFO 2 TO AMP
 28 = LFO 2 CROSS MOD
-119 ---
-29 = Vel 2  Filter
-30 =  Vel 2 AMP
-31 = VEL to XMOD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+119 = --
+119 = --
 
 

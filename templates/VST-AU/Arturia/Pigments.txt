@@ -1,0 +1,37 @@
+##FORCEMIDIMAP
+#---PAGE 1---------------------------
+8 = Volume
+18 = Macro 1
+19 = Macro 2
+16 = Macro 3
+17 = Macro 4
+93 = FX A1 Mix
+91 = FX A2 MIX
+124 = --
+#Filter
+74 = F1 Cutoff
+71 = F1 Resonance
+76 = F2 Cutoff
+77 = F2 Resonance
+124 = --
+85 = F1 FM Amount
+124 = --
+124 = --
+124 = --
+
+
+#---Page 2 ENVELOPES -------------------
+
+73 = EA Attack
+75 = EA Decay
+79 = EA Sustain
+72 = EA Release
+80 = E2 Attack
+
+
+
+
+
+
+
+

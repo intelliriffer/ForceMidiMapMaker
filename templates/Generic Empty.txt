@@ -3,6 +3,7 @@
 # Do not USE CC : 1, 7, 10,11,32,64, 120-127 
 # as they are reserved for most things and forces also resets them
 #you can use empry cc: 124 = -- as empty placeholder
+# you need to load the map in force and midi learn each parameter in the vst (most times its one time operation as vst will remember it mapping)
 
 #---PAGE 1---------------------------
 1 = Mod Wheel

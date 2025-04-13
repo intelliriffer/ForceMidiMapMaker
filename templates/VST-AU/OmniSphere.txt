@@ -1,0 +1,21 @@
+##FORCEMIDIMAP 
+#Too few params Mapped, but you can map more if needed..
+#---PAGE 1---------------------------
+8 = Volume
+18 = Main Cutoff
+19 = Main Resonance
+16 = -
+5 = Glide
+93 = Next Patch # experimental
+91 = --
+1 = Mod Wheel
+
+
+
+
+
+
+
+
+
+

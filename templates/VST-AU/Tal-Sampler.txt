@@ -1,0 +1,164 @@
+##FORCEMIDIMAP
+#basic setup for generic vst emty
+# Do not USE CC : 1, 7, 10,11,32,64, 120-127 
+# as they are reserved for most things and forces also resets them
+#you can use empry cc: 124 = -- as empty placeholder
+# you need to load the map in force nad midi learn each parameter in the vst
+#tal sampler does not seem to be rmeembering cc so this template might be futile.
+
+#---PAGE 1--- Filter and Globals------------------------
+1 = Mod Wheel
+2 = VOLUME #breath
+7 = --
+3 = Cutoff
+4 = Resonance #foot ctrlr
+6 = Filter Env2 Amt 
+8 = Filter Key Track 
+5 = Portamento Time
+
+
+12 = P1 Macro
+13 = P2 MAcro
+14 = P3 Macro
+15 = P4 Macro
+16 = --
+17 = --
+18 = --
+19 = --
+
+#---Page 2 ---ENV1 = ENV 3 Hold are set Separately----------------
+
+20 = E1 Attack
+21 = E1 Decay
+22 = E1 Sustain
+23 = E1 Release
+24 = FE2 Attack
+25 = FE2 Decay
+26 = FE2 Sustain
+27 = FE2 Release
+
+28 = E3 Attack
+29 = E3 Decay
+30 = E3 Sustain
+31 = E3 Release
+33 = --
+34 = E1 Hold
+35 = E2 Hold
+36 = E3 Hold
+
+#---- Page 3 -----LFO and Layers------------
+
+37 = LFO1 Rate
+38 = LFO1 Phase
+39 = LFO2 Rate
+40 = LFO2 Phase
+41 = LFO 3 Rate
+42 = LFO 3 Phase
+43 = --
+44 = --
+
+45 = @64 Layer 1 Volume
+46 = @64 Layer 1 Pan
+47 = @64 Layer 2 Volume
+48 = @64 Layer 2 Pan
+49 = @64 Layer 3 Volume
+50 = @64 Layer 3 Pan
+51 = @64 Layer 4 Volume
+52 = @64 Layer 4 Pan
+
+#---- Page 4 ----FX-------------
+
+53 = Reverb Wet
+54 = Reverb Delay
+55 = Reverb Size
+56 = Delay Wet
+57 = Delay Time
+58 = Delay Feedback
+59 = Delay Offset
+60 = Delay Spread
+
+61 = Delay Depth
+62 = Delay Rate
+63 = --
+64 = -- # do not use sustain ever on force / mpc
+65 = Reverb High
+66 = Reverb Low
+67 = Delay High
+68 = Delay low
+
+
+#---- Page 5 ---RESAMPLER---Not All Parameters available all the time-----------
+
+70 = Saturation
+71 = @127 ADC Q
+72 = @127 DAC Q
+73 = SAMPLE RATE
+74 = Bits
+75 = Bias
+76 = Level
+77 = Jitter
+
+78 = Hiss
+79 = --
+80 = --
+81 = --
+82 = --
+83 = --
+84 = --
+85 = --
+
+#---- Page 6 -----------------
+
+86 = --
+87 = --
+88 = --
+89 = --
+90 = --
+91 = --
+92 = --
+93 = --
+
+94 = --
+95 = --
+96 = --
+97 = --
+98 = --
+99 = --
+100 = --
+101 = --
+
+#---- Page 7 -----------------
+
+102 = --
+103 = --
+104 = --
+105 = --
+106 = --
+107 = --
+108 = --
+109 = --
+
+110 = --
+111 = --
+112 = --
+113 = --
+114 = --
+115 = --
+116 = --
+117 = --
+
+#---- Page 8 -----------------
+
+118 = --
+119 = --
+124 = --
+
+
+
+
+
+
+
+
+
+
